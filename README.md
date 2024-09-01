@@ -1,2 +1,14 @@
-# Tourism-Website-Sample-with-Search-filters-video-player-text-editor
-Epic Holidays is a modern and dynamic tourism website built with ReactJS. It offers users an engaging platform to explore popular travel destinations through interactive features like grid and list layouts, a responsive search bar, real-time forms, a video player, and a rich text editor.
+# Epic Holidays
+
+A React-based tourism website with layout switching, search filtering, a video player, a text editor, and a real-time form.
+
+## Features
+
+- **Grid and List Layouts**: Switch between different layouts.
+- **Search Bar**: Filter destinations in real time.
+- **Real-Time Form**: A form that updates in real time as you type.
+- **Video Player**: Play promotional videos.
+- **Text Editor**: A simple text editor for notes.
+
+
+
